@@ -1,0 +1,4 @@
+20231208	15:07:05	d461fe39-0328-4fd1-ab45-fd5e35759c9c	OPTIONS	http://localhost:3000	/auth
+20231208	15:07:05	e9b9819c-fb77-420d-bcd2-984ab8913182	POST	http://localhost:3000	/auth
+20231208	15:07:07	ed495a5c-91fd-4bab-9284-c480ba1c53e1	OPTIONS	http://localhost:3000	/users
+20231208	15:07:07	9a8285dc-7c1e-4335-8c95-9b49c7cbd208	GET	http://localhost:3000	/users
